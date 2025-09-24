@@ -1,0 +1,6 @@
+@testserver_rename_if_working__HostAddress = http://localhost:5178
+
+GET {{testserver_rename_if_working__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
