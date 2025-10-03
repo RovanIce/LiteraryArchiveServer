@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace testserver_rename_if_working_.Controllers
+namespace LiteraryArchiveServer.Controllers
 {
     [ApiController]
     [Route("[controller]")]

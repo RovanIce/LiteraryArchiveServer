@@ -1,6 +1,6 @@
-@testserver_rename_if_working__HostAddress = http://localhost:5178
+@LiteraryArchiveServer__HostAddress = http://localhost:5178
 
-GET {{testserver_rename_if_working__HostAddress}}/weatherforecast/
+GET {{LiteraryArchiveServer__HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

@@ -1,4 +1,4 @@
-namespace testserver_rename_if_working_
+namespace LiteraryArchiveServer
 {
     public class WeatherForecast
     {
